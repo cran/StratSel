@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+
+S3method(print,StratSel)
+S3method(predict,StratSel)
+S3method(plot,StratSel)
+S3method(summary,StratSel)
