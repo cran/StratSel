@@ -87,7 +87,6 @@ StratSel(formula, corr = TRUE, Startval, optim.method = "BFGS", data, ...)
 
 \examples{
 # replicate the example from Leemann (2014):
-library(memisc)
 data(war1800)
 \dontrun{out1 <- StratSel(Y ~ s_wt_re1 + revis1 | dem1 + mixed1 | balanc
  + dem2 + mixed2, data=war1800, corr=TRUE)}

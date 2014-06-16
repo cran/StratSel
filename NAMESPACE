@@ -4,3 +4,10 @@ S3method(print,StratSel)
 S3method(predict,StratSel)
 S3method(plot,StratSel)
 S3method(summary,StratSel)
+S3method(vcov,StratSel)
+S3method(logLik,StratSel)
+
+
+import(Formula)
+import(memisc)
+import(mnormt)
