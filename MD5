@@ -1,5 +1,5 @@
-0258b50128b2e6182a0e2730673c4654 *DESCRIPTION
-f01b2317570a71d9823a8950b93408ff *NAMESPACE
+00508399c1e65f93c35c72f32470e9ec *DESCRIPTION
+caa70b1b230d908b2cbb0d824da80e7b *NAMESPACE
 49b5a0f8f20f47719ef4b2456e7a3e2b *R/StratSel-internal.R
 7174a2a89c9858eff5d1c6d3858f3d8a *R/StratSel.R
 8a6ca52bf7de3a2b7ee397f72071169f *R/fetch.rho.b.R
@@ -17,11 +17,11 @@ aee3fe0e97da84b0dc7036d373ac13c3 *R/print.summary.StratSel.R
 c608cc9ce05ec790af8f55a15045095d *R/setStratSelDefault.R
 12db1463990853e2afbf423f148d5988 *R/summary.StratSel.R
 0c30c01039aba5f08aba1376de1e7391 *R/vcov.StratSel.R
-6cb0fb6b8796c936bf7e83ef98257f0a *data/data.fake.rda
+091cd9ebceec35be93c36af2fd4b364a *data/data.fake.rda
 1abe2c1942877b226435fe3650861d04 *data/war1800.rda
 456595f75b624eea85359283fa6f13ec *man/StratSel-package.Rd
 c279df517ae1ec32aff2f43a3a58ec45 *man/StratSel.Rd
-9e3210fb1a3da1df008b31794ec4829b *man/data.fake.Rd
+f9b1675b2b998fdaabb36e7534629a5f *man/data.fake.Rd
 6a32edcda23e091020c6b44e33d388c1 *man/fetch.rho.b.Rd
 b32a23854fa8e94eb87a9c56f82bc90d *man/fetch.rho.v.Rd
 4554d5f99301f4420185717d1072621a *man/gen.Startval.Rd
@@ -30,7 +30,7 @@ b32a23854fa8e94eb87a9c56f82bc90d *man/fetch.rho.v.Rd
 52a19ad7b2c7dd18031307a49e629267 *man/logLikStrat.Rd
 aeccbc8fd3d1223dd8df3159ed819491 *man/logLikStratSel.Rd
 9b8e0e8edbe6c36b1f769ec26b03a283 *man/makeDyadic.Rd
-0fdbfb102c0700bd42cc30891ce335d3 *man/plot.StratSel.Rd
+6dd0997df53078c6a3544e6f971a74ad *man/plot.StratSel.Rd
 0d67e6802b9ecca38768e47c561e2e26 *man/predict.StratSel.Rd
 9dfa24f5885c604ab75d1a6d6ebd9ab6 *man/print.StratSel.Rd
 f05ba8331d35251a69123511d1f779ec *man/print.summary.StratSel.Rd

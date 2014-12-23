@@ -10,4 +10,5 @@ S3method(logLik,StratSel)
 
 import(Formula)
 import(memisc)
+import(MASS)
 import(mnormt)
