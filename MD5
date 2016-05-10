@@ -1,5 +1,5 @@
-00508399c1e65f93c35c72f32470e9ec *DESCRIPTION
-caa70b1b230d908b2cbb0d824da80e7b *NAMESPACE
+ee23cd9f512be85ac5b5c4cab8b585a6 *DESCRIPTION
+fe6b8859770a1b4205fefbeeb55e135c *NAMESPACE
 49b5a0f8f20f47719ef4b2456e7a3e2b *R/StratSel-internal.R
 7174a2a89c9858eff5d1c6d3858f3d8a *R/StratSel.R
 8a6ca52bf7de3a2b7ee397f72071169f *R/fetch.rho.b.R
@@ -8,11 +8,11 @@ a11fcc5deaa17213a46b19bd5835af36 *R/gen.Startval.R
 ab72b0eeecd875b1794c251c4cb509ef *R/getSummary.StratSel.R
 403f770800aa0b2eb7281f049ad5a68d *R/logLik.StratSel.R
 d80151874ad0ffe7191bd186dac8a583 *R/logLikStrat.R
-344d30b6d454e9ef4194df1bca84ec7b *R/logLikStratSel.R
+97ea793de87135b0161319452390681f *R/logLikStratSel.R
 550ebbcbedf9fdb93259b07c061dc750 *R/makeDyadic.R
 2db1ad1fa3d950014bcb10b536cacd46 *R/plot.StratSel.R
 3f28b42d7b59760e2e5919d7eaeb5706 *R/predict.StratSel.R
-277d72db02242a357d5fa09d3a676b3c *R/print.StratSel.R
+cac574c345cf96ba5acaf6b4336b8f86 *R/print.StratSel.R
 aee3fe0e97da84b0dc7036d373ac13c3 *R/print.summary.StratSel.R
 c608cc9ce05ec790af8f55a15045095d *R/setStratSelDefault.R
 12db1463990853e2afbf423f148d5988 *R/summary.StratSel.R

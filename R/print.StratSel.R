@@ -6,5 +6,5 @@ function(x, ...)
     cat("Number of Obs\n")
     print(x$df)
     cat("\n Coefficients:\n")
-    print(x$coefficients)
+    print.summary.StratSel(x$coefficients)
 }
