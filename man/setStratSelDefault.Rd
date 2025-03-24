@@ -18,7 +18,7 @@ Lucas Leemann \email{lleemann@gmail.com}
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
 \seealso{
-See \code{mtable} table command in the \code{memisc} package.
+See \code{link[memisc]{mtable}} table command in the \code{memisc} package.
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \references{

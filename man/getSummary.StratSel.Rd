@@ -35,7 +35,7 @@ Elff, Martin. (2013). \emph{memisc:} Tools for Management of Survey Data, Graphi
 Lucas Leemann \email{lleemann@gmail.com}
 }
 \seealso{
-\code{\link{toLatex}}, \code{\link{mtable}}
+\code{\link[utils]{toLatex}}, \code{\link[memisc]{mtable}}
 }
 \examples{
 data(data.fake)
